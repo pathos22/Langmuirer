@@ -4,7 +4,7 @@ This repository contains scripts and tools developed by the University of Vienna
 
 Overview
 
-The provided code enables detailed analysis of lipid-protein and lipid-lipid interactions in biological membranes. It supports a wide range of data inputs, including molecular dynamics (MD) simulation trajectories, experimental data formats, and structural models.
+The provided code enables detailed analysis of lipid-protein and lipid-lipid interactions in biological membranes. It supports a wide range of data inputs, experimental data formats, and structural models.
 
 Key features include:
 
